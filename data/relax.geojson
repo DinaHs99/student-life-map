@@ -1,0 +1,1895 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-06-19T17:09:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22945568",
+        "leisure": "park",
+        "name": "Schlosspark Leopoldskron",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0401914,
+          47.7859734
+        ]
+      },
+      "id": "way/22945568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23045308",
+        "landuse": "village_green",
+        "leisure": "park",
+        "name": "Lehener Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0344776,
+          47.8149882
+        ]
+      },
+      "id": "way/23045308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23045464",
+        "access": "yes",
+        "addr:postcode": "5020",
+        "leisure": "park",
+        "name": "Mirabellgarten",
+        "name:en": "Mirabell Garden",
+        "name:fr": "Jardins Mirabell",
+        "name:ko": "미라벨 정원",
+        "name:ru": "Сад Мирабель",
+        "name:uk": "Сад Мірабель",
+        "name:zh": "米拉贝尔花园",
+        "opening_hours": "07:00-21:00",
+        "start_date": "1687",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q250852",
+        "wikimedia_commons": "Category:Mirabellgarten",
+        "wikipedia": "de:Mirabellgarten",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0414634,
+          47.8047393
+        ]
+      },
+      "id": "way/23045464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/29338254",
+        "leisure": "park",
+        "name": "Baron-Schwarz-Park",
+        "source": "yahoo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0546877,
+          47.8219538
+        ]
+      },
+      "id": "way/29338254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30512249",
+        "animal": "school",
+        "leisure": "dog_park",
+        "name": "Hundeabrichteplatz",
+        "school_type": "dog",
+        "source": "plan.at 2009",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.994931,
+          47.8029561
+        ]
+      },
+      "id": "way/30512249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30514228",
+        "leisure": "park",
+        "name": "Stölzlpark",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0201254,
+          47.8029657
+        ]
+      },
+      "id": "way/30514228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30514229",
+        "leisure": "park",
+        "name": "Minnesheim Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0742145,
+          47.8131508
+        ]
+      },
+      "id": "way/30514229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30514235",
+        "leisure": "park",
+        "name": "Volksgarten (Franz-Josef-Park)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0583417,
+          47.7970023
+        ]
+      },
+      "id": "way/30514235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38899504",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "surface": "rubber",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0431094,
+          47.7750082
+        ]
+      },
+      "id": "way/38899504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/47059462",
+        "landuse": "recreation_ground",
+        "leisure": "park",
+        "name": "Preuschenpark",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0766544,
+          47.7985144
+        ]
+      },
+      "id": "way/47059462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48959175",
+        "leisure": "park",
+        "name": "Dr.-Hans-Lechner-Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0514793,
+          47.8105116
+        ]
+      },
+      "id": "way/48959175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/50769435",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0540413,
+          47.8184282
+        ]
+      },
+      "id": "way/50769435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/50845381",
+        "barrier": "hedge",
+        "leisure": "park",
+        "name": "Huemerpark",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0250275,
+          47.794831
+        ]
+      },
+      "id": "way/50845381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/50994664",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0555621,
+          47.8205373
+        ]
+      },
+      "id": "way/50994664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/64132696",
+        "leisure": "park",
+        "name": "Furtwänglerpark",
+        "website": "http://www.salzburg.com/wiki/index.php/Furtw%C3%A4nglerpark",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0425351,
+          47.7989955
+        ]
+      },
+      "id": "way/64132696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/64942843",
+        "leisure": "park",
+        "name": "Schanzlpark",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0530655,
+          47.796232
+        ]
+      },
+      "id": "way/64942843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/67461418",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "surface": "clay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0612352,
+          47.796212
+        ]
+      },
+      "id": "way/67461418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/67461496",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "surface": "clay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.061602,
+          47.7960677
+        ]
+      },
+      "id": "way/67461496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/67461529",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "surface": "clay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0614184,
+          47.7961399
+        ]
+      },
+      "id": "way/67461529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/74501965",
+        "access": "private",
+        "barrier": "fence",
+        "leisure": "pitch",
+        "source": "Yahoo",
+        "sport": "tennis",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0395166,
+          47.7637933
+        ]
+      },
+      "id": "way/74501965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/77113446",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0138647,
+          47.8141373
+        ]
+      },
+      "id": "way/77113446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/77835903",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "tennis",
+        "surface": "clay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0219583,
+          47.8041481
+        ]
+      },
+      "id": "way/77835903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94442535",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Bundesbahn Sportverein",
+        "sport": "tennis",
+        "surface": "clay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0219619,
+          47.8044323
+        ]
+      },
+      "id": "way/94442535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104977537",
+        "dog": "designated",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Stadt Salzburg",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0206144,
+          47.8027965
+        ]
+      },
+      "id": "way/104977537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110444149",
+        "access": "private",
+        "leisure": "pitch",
+        "operator": "ORF",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0530085,
+          47.7878273
+        ]
+      },
+      "id": "way/110444149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110464913",
+        "barrier": "fence",
+        "leisure": "park",
+        "name": "Franz Flöckner Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0644827,
+          47.7869053
+        ]
+      },
+      "id": "way/110464913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/112837778",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "basketball",
+        "surface": "tartan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0613971,
+          47.785812
+        ]
+      },
+      "id": "way/112837778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/129242530",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0683348,
+          47.8254823
+        ]
+      },
+      "id": "way/129242530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131449719",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0608487,
+          47.7959452
+        ]
+      },
+      "id": "way/131449719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131449740",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0610414,
+          47.7958708
+        ]
+      },
+      "id": "way/131449740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131449742",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "surface": "clay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0610275,
+          47.7962823
+        ]
+      },
+      "id": "way/131449742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131449756",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "surface": "clay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0617857,
+          47.7959954
+        ]
+      },
+      "id": "way/131449756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131449759",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "surface": "clay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0608079,
+          47.7963371
+        ]
+      },
+      "id": "way/131449759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/133776808",
+        "leisure": "pitch",
+        "sport": "basketball",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0333053,
+          47.7951403
+        ]
+      },
+      "id": "way/133776808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/134037839",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "surface": "clay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0676447,
+          47.8108704
+        ]
+      },
+      "id": "way/134037839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/134043710",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0721947,
+          47.8064645
+        ]
+      },
+      "id": "way/134043710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/134203852",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0789248,
+          47.8184304
+        ]
+      },
+      "id": "way/134203852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/134834860",
+        "leisure": "pitch",
+        "sport": "basketball",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0645189,
+          47.8017713
+        ]
+      },
+      "id": "way/134834860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/135927357",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "tennis",
+        "surface": "tartan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.065653,
+          47.7970054
+        ]
+      },
+      "id": "way/135927357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/137729234",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0754384,
+          47.7553685
+        ]
+      },
+      "id": "way/137729234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/137729235",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0752374,
+          47.7558476
+        ]
+      },
+      "id": "way/137729235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138105652",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0142796,
+          47.7928899
+        ]
+      },
+      "id": "way/138105652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147462635",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0253901,
+          47.8007667
+        ]
+      },
+      "id": "way/147462635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154842736",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0386349,
+          47.8205813
+        ]
+      },
+      "id": "way/154842736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154916011",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0116824,
+          47.8161456
+        ]
+      },
+      "id": "way/154916011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154916023",
+        "leisure": "pitch",
+        "sport": "basketball",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0113984,
+          47.8159603
+        ]
+      },
+      "id": "way/154916023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/156027148",
+        "leisure": "swimming_pool",
+        "name": "Freibecken",
+        "sport": "swimming",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0359224,
+          47.7890127
+        ]
+      },
+      "id": "way/156027148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/156027150",
+        "leisure": "swimming_pool",
+        "name": "Freibecken",
+        "sport": "swimming",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0364402,
+          47.7896028
+        ]
+      },
+      "id": "way/156027150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/156027156",
+        "leisure": "swimming_pool",
+        "name": "Freibecken",
+        "sport": "swimming",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0350572,
+          47.7889873
+        ]
+      },
+      "id": "way/156027156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/156165213",
+        "access": "yes",
+        "hoops": "1",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "basketball",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.043226,
+          47.7887943
+        ]
+      },
+      "id": "way/156165213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/162055068",
+        "leisure": "park",
+        "name": "ÖGV Salzburg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0130731,
+          47.776408
+        ]
+      },
+      "id": "way/162055068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/162917785",
+        "leisure": "park",
+        "name": "Park Seniorenheim Nonntal",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0434734,
+          47.7908754
+        ]
+      },
+      "id": "way/162917785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219054245",
+        "leisure": "park",
+        "name": "Heckentheater",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0415789,
+          47.8042938
+        ]
+      },
+      "id": "way/219054245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226382642",
+        "leisure": "pitch",
+        "sport": "basketball",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0809002,
+          47.8301584
+        ]
+      },
+      "id": "way/226382642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252356702",
+        "barrier": "fence",
+        "dog": "designated",
+        "fence_type": "chain_link",
+        "height": "1.5",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Stadt Salzburg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0675759,
+          47.7627967
+        ]
+      },
+      "id": "way/252356702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262501453",
+        "hoops": "2",
+        "leisure": "pitch",
+        "sport": "basketball",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0077788,
+          47.8217925
+        ]
+      },
+      "id": "way/262501453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263088614",
+        "area": "yes",
+        "barrier": "fence",
+        "dog": "designated",
+        "fence_type": "wire",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Stadt Salzburg",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0448247,
+          47.7886
+        ]
+      },
+      "id": "way/263088614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263088615",
+        "dog": "designated",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Stadt Salzburg",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0620384,
+          47.7966324
+        ]
+      },
+      "id": "way/263088615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263088616",
+        "dog": "designated",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Gut Aiderbichl",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0907262,
+          47.7852815
+        ]
+      },
+      "id": "way/263088616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263088617",
+        "access": "yes",
+        "barrier": "fence",
+        "fence_type": "chain_link",
+        "leisure": "dog_park",
+        "name": "Hundefreilauffläche Salzachsee",
+        "operator": "Stadt Salzburg",
+        "operator:type": "government",
+        "surface": "grass",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0137256,
+          47.8399273
+        ]
+      },
+      "id": "way/263088617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/381435563",
+        "description": "Kleines Basketballfeld auf Asphalt mit Metallkörben; wegen der Größe eher für streetball geeignet",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Basketballplatz",
+        "sport": "basketball",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0343729,
+          47.8143231
+        ]
+      },
+      "id": "way/381435563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/427959828",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0990684,
+          47.8101307
+        ]
+      },
+      "id": "way/427959828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428860739",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "tennis",
+        "surface": "clay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0273008,
+          47.8301745
+        ]
+      },
+      "id": "way/428860739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445971891",
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0519717,
+          47.8104482
+        ]
+      },
+      "id": "node/445971891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/489505629",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "basketball",
+        "surface": "tartan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0566963,
+          47.7923756
+        ]
+      },
+      "id": "way/489505629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547540825",
+        "leisure": "pitch",
+        "sport": "basketball",
+        "surface": "tartan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0366402,
+          47.8208245
+        ]
+      },
+      "id": "way/547540825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/554568615",
+        "leisure": "park",
+        "name": "Kurgarten",
+        "wikidata": "Q1230934",
+        "wikimedia_commons": "Category:Kurpark, Salzburg",
+        "wikipedia": "de:Kurgarten (Salzburg)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0408925,
+          47.8061208
+        ]
+      },
+      "id": "way/554568615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/585115616",
+        "access": "yes",
+        "hoops": "0",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "basketball",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0254156,
+          47.8151409
+        ]
+      },
+      "id": "way/585115616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/594102781",
+        "leisure": "swimming_pool",
+        "name": "Plantschbecken",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0348529,
+          47.7896165
+        ]
+      },
+      "id": "way/594102781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/745882479",
+        "animal": "school",
+        "landuse": "meadow",
+        "leisure": "dog_park",
+        "name": "Österreichischer Retriever Club",
+        "school_type": "dog",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0657606,
+          47.8245807
+        ]
+      },
+      "id": "way/745882479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/778500982",
+        "artwork_type": "sculpture",
+        "leisure": "park",
+        "material": "stone",
+        "name": "Skulpturen Park Kupelwieserplatzl",
+        "operator": "Kupelwieser Schlössl Salzburg",
+        "tourism": "artwork",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.040572,
+          47.7943009
+        ]
+      },
+      "id": "way/778500982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/809910806",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0756626,
+          47.7554125
+        ]
+      },
+      "id": "way/809910806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/809910807",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0754598,
+          47.7558907
+        ]
+      },
+      "id": "way/809910807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/829451169",
+        "leisure": "pitch",
+        "sport": "basketball",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.047031,
+          47.8214762
+        ]
+      },
+      "id": "way/829451169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/881562353",
+        "leisure": "pitch",
+        "sport": "basketball",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0495089,
+          47.8268772
+        ]
+      },
+      "id": "way/881562353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/882874158",
+        "leisure": "dog_park",
+        "name": "know wau",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0651416,
+          47.828743
+        ]
+      },
+      "id": "way/882874158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/893936240",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "basketball",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0169639,
+          47.8396716
+        ]
+      },
+      "id": "way/893936240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/973173224",
+        "access": "private",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Platz Nr. 5",
+        "sport": "tennis",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0146971,
+          47.7929348
+        ]
+      },
+      "id": "way/973173224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/973173225",
+        "access": "private",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Tennisplatz Nr. 4",
+        "sport": "tennis",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0145166,
+          47.7929169
+        ]
+      },
+      "id": "way/973173225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/973173226",
+        "access": "private",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Tennisplatz Nr 3",
+        "sport": "tennis",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0143338,
+          47.7928957
+        ]
+      },
+      "id": "way/973173226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/973173335",
+        "access": "private",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Tennisplatz Nr 2",
+        "sport": "tennis",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.014125,
+          47.7928745
+        ]
+      },
+      "id": "way/973173335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/973173345",
+        "access": "private",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Tennisplatz Nr 1",
+        "sport": "tennis",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0139037,
+          47.7928502
+        ]
+      },
+      "id": "way/973173345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1041086639",
+        "access": "permit",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "tennis",
+        "surface": "tartan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0124874,
+          47.8325587
+        ]
+      },
+      "id": "way/1041086639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1041086640",
+        "access": "permit",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "tennis",
+        "surface": "tartan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0125837,
+          47.8324171
+        ]
+      },
+      "id": "way/1041086640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1041086641",
+        "access": "permit",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "tennis",
+        "surface": "tartan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0134381,
+          47.8328531
+        ]
+      },
+      "id": "way/1041086641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1041086642",
+        "access": "permit",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "tennis",
+        "surface": "tartan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0130229,
+          47.8327239
+        ]
+      },
+      "id": "way/1041086642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1073517259",
+        "access": "private",
+        "leisure": "park",
+        "name": "Park Kloster St. Josef",
+        "operator": "Kloster St. Josef",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0799487,
+          47.7885012
+        ]
+      },
+      "id": "way/1073517259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1182216552",
+        "access": "yes",
+        "hoops": "1",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "basketball",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.043362,
+          47.7889688
+        ]
+      },
+      "id": "way/1182216552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1186072084",
+        "hoops": "1",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "basketball",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0735424,
+          47.8129955
+        ]
+      },
+      "id": "way/1186072084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1224500762",
+        "access": "yes",
+        "hoops": "1",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "basketball",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0016848,
+          47.8359
+        ]
+      },
+      "id": "way/1224500762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1241909568",
+        "leisure": "park",
+        "name": "Spieplatz",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "Solaris 2",
+        "operator:type": "community",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.014921,
+          47.8072384
+        ]
+      },
+      "id": "way/1241909568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1356192194",
+        "leisure": "pitch",
+        "sport": "basketball",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0610774,
+          47.7969059
+        ]
+      },
+      "id": "way/1356192194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1372511623",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "tennis",
+        "surface": "clay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0271162,
+          47.8301043
+        ]
+      },
+      "id": "way/1372511623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1372511624",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "tennis",
+        "surface": "clay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0274836,
+          47.8302342
+        ]
+      },
+      "id": "way/1372511624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1372511625",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "tennis",
+        "surface": "clay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0273149,
+          47.8297149
+        ]
+      },
+      "id": "way/1372511625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1372511626",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "tennis",
+        "surface": "clay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0275115,
+          47.8297828
+        ]
+      },
+      "id": "way/1372511626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2451568023",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "Paracelsus Bad",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0399815,
+          47.8065867
+        ]
+      },
+      "id": "node/2451568023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665987636",
+        "leisure": "swimming_pool",
+        "name": "Babybecken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0344547,
+          47.7895284
+        ]
+      },
+      "id": "node/5665987636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11978154077",
+        "access": "yes",
+        "addr:city": "Salzburg",
+        "addr:postcode": "5020",
+        "addr:street": "Billrothstraße",
+        "leisure": "park",
+        "name": "Waldspielplatz",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0747017,
+          47.7793556
+        ]
+      },
+      "id": "node/11978154077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12458790109",
+        "addr:city": "Salzburg",
+        "addr:housenumber": "30",
+        "addr:postcode": "5020",
+        "addr:street": "Schillerstraße",
+        "check_date": "2024-12-16",
+        "leisure": "park",
+        "man_made": "courtyard",
+        "name": "Innenhof TechnoZ",
+        "operator": "Techno-Z Salzburg",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0392297,
+          47.8235723
+        ]
+      },
+      "id": "node/12458790109"
+    }
+  ]
+}

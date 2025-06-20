@@ -1,0 +1,505 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-06-18T15:55:14Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266071001",
+        "amenity": "university",
+        "name": "ÖH Österreichische Hochschülerschaft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0497703,
+          47.7966712
+        ]
+      },
+      "id": "node/266071001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/477834919",
+        "amenity": "university",
+        "name": "Mozarteum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0685205,
+          47.7815883
+        ]
+      },
+      "id": "node/477834919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/477834922",
+        "amenity": "library",
+        "check_date": "2023-08-22",
+        "name": "Lesessaal Mozarteum",
+        "opening_hours": "Mo 09:00-17:00; Tu-Fr 09:00-12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0683892,
+          47.781581
+        ]
+      },
+      "id": "node/477834922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/551204653",
+        "addr:housename": "Altes Mozarteum",
+        "addr:housenumber": "26",
+        "addr:postcode": "5020",
+        "addr:street": "Schwarzstraße",
+        "amenity": "university",
+        "name": "Universität Mozarteum (Altes Mozarteum)",
+        "name:en": "Universität Mozarteum (Old Building)",
+        "operator": "Universität Mozarteum",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0419345,
+          47.8035301
+        ]
+      },
+      "id": "node/551204653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/571478721",
+        "amenity": "university",
+        "check_date": "2024-12-21",
+        "name": "Große Aula Universität Salzburg",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.042122,
+          47.7988767
+        ]
+      },
+      "id": "node/571478721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/722149400",
+        "addr:city": "Salzburg",
+        "addr:housenumber": "2-4",
+        "addr:postcode": "5020",
+        "addr:street": "Hofstallgasse",
+        "alt_name": "Universitätsbibliothek",
+        "amenity": "library",
+        "name": "Hauptbibliothek",
+        "name:de": "Hauptbibliothek",
+        "name:en": "Main Campus Library",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-17:00",
+        "operator": "Universität Salzburg",
+        "ref:isil": "AT-UBS-HB",
+        "short_name": "UB",
+        "website": "https://www.uni-salzburg.at/index.php?id=32281",
+        "wheelchair": "yes",
+        "wikidata": "Q2496333",
+        "wikipedia": "de:Universitätsbibliothek Salzburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0414228,
+          47.7990643
+        ]
+      },
+      "id": "node/722149400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1824626233",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "14",
+        "addr:postcode": "5020",
+        "addr:street": "Schumacherstraße",
+        "amenity": "library",
+        "check_date": "2023-08-22",
+        "contact:phone": "+43 662 8072 2450",
+        "contact:website": "https://buch.stadt-salzburg.at/",
+        "name": "Stadt:Bibliothek",
+        "opening_hours": "Mo, Th, Fr 10:00-18:00; Tu, We 15:00-19:00; Sa 10:00-15:00",
+        "wheelchair": "yes",
+        "wikidata": "Q1167439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0269075,
+          47.813248
+        ]
+      },
+      "id": "node/1824626233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2364353403",
+        "amenity": "university",
+        "name": "Department of Geoinformatics - Z_GIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0393487,
+          47.8236171
+        ]
+      },
+      "id": "node/2364353403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3722537391",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "18",
+        "addr:street": "Strubergasse",
+        "amenity": "library",
+        "name": "Robert-Jungk-Bibliothek für Zukunftsfragen",
+        "phone": "+43662873206",
+        "website": "http://www.jungk-bibliothek.at/",
+        "wikidata": "Q2156227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0321043,
+          47.8094468
+        ]
+      },
+      "id": "node/3722537391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5760569257",
+        "amenity": "library",
+        "check_date": "2023-08-22",
+        "name": "Schulbibliothek BGN, WRG & BORG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0553163,
+          47.7955663
+        ]
+      },
+      "id": "node/5760569257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5760691233",
+        "addr:city": "Salzburg",
+        "addr:housenumber": "1",
+        "addr:postcode": "5020",
+        "addr:street": "Erzabt-Klotz-Straße",
+        "amenity": "library",
+        "contact:website": "https://www.uni-salzburg.at/index.php?id=32303",
+        "name": "Fachbibliothek UNIPARK",
+        "operator": "Universität Salzburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0538342,
+          47.7946612
+        ]
+      },
+      "id": "node/5760691233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6974703127",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "5010",
+        "addr:street": "St.-Peter-Bezirk",
+        "amenity": "library",
+        "check_date": "2023-08-22",
+        "contact:email": "office@erzabtei.at",
+        "contact:phone": "+43 662 844576",
+        "contact:website": "https://stift-stpeter.at/de/kultur/index.asp?dat=Bibliothek&id=259&title=Bibliothek+St%2E+Peter",
+        "name": "Bibliothek Sankt Peter",
+        "opening_hours": "Tu-Th 09:00-12:00, 14:00-17:00; Fr 09:00-14:00",
+        "operator": "Benediktiner Erzabtei St. Peter in Salzburg",
+        "ref:isil": "AT-STPET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0456881,
+          47.7969982
+        ]
+      },
+      "id": "node/6974703127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6975043735",
+        "addr:city": "Salzburg",
+        "addr:housenumber": "1",
+        "addr:postcode": "5020",
+        "addr:street": "Mirabellplatz",
+        "alt_name": "Universitätsbibliothek",
+        "amenity": "library",
+        "check_date": "2024-07-03",
+        "contact:email": "bibliothek@moz.ac.at",
+        "contact:phone": "+43 662 6198 4000",
+        "contact:website": "https://www.moz.ac.at/de/bibliothek/",
+        "name": "Hauptbibliothek",
+        "name:de": "Hauptbibliothek",
+        "name:en": "Main Campus Library",
+        "opening_hours": "Mo 09:00-16:00; Mo 16:00-19:00 open \"Offener Lesesaal\"; Tu-Th 09:00-19:00; Fr 09:00-14:00; Fr 14:00-17:00 open \"Offener Lesesaal\"; Sa 10:00-14:00 open \"Offener Lesesaal\"; SH Mo-Fr 09:00-16:00; SH Sa off",
+        "operator": "Universität Mozarteum Salzburg",
+        "ref:isil": "AT-UBMS-HB",
+        "short_name": "UB",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0439062,
+          47.8036077
+        ]
+      },
+      "id": "node/6975043735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6975289515",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "5020",
+        "addr:street": "Griesgasse",
+        "amenity": "library",
+        "contact:email": "haslauer.bibliothek@sbg.at",
+        "contact:fax": "+43 662 841200",
+        "contact:phone": "+43 662 846666",
+        "contact:website": "http://www.haslauer-bibliothek.at/",
+        "name": "Dr.-Wilfried-Haslauer-Bibliothek",
+        "opening_hours": "Mo-Th 09:00-13:30; Fr 09:00-11:00",
+        "operator": "Forschungsinstitut für politisch-historische Studien",
+        "ref:isil": "AT-WHBIB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0425005,
+          47.8006298
+        ]
+      },
+      "id": "node/6975289515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8860537924",
+        "amenity": "university",
+        "name": "Alte Geschichte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0454743,
+          47.7986451
+        ]
+      },
+      "id": "node/8860537924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9114435717",
+        "addr:city": "Puch bei Hallein",
+        "addr:housenumber": "1",
+        "addr:postcode": "5412",
+        "addr:street": "Generationenweg",
+        "amenity": "library",
+        "name": "Bücherei Puch",
+        "opening_hours": "Mo 15:00-18:30; Mi 15:30-19:00; Sa 10:00-12:00",
+        "operator": "Gemeinde Puch",
+        "operator:type": "public",
+        "website": "https://bibpuch.bvoe.at/die-bibliothek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0852301,
+          47.7152952
+        ]
+      },
+      "id": "node/9114435717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11409300028",
+        "addr:city": "Puch bei Hallein",
+        "addr:housenumber": "15",
+        "addr:postcode": "5412",
+        "addr:street": "Urstein Süd",
+        "amenity": "college",
+        "name": "Fachhochschule Salzburg - Standort Wissenspark Urstein - Gebäude Techno-Z",
+        "operator": "Fachhochschule Salzburg GmbH",
+        "operator:type": "private",
+        "website": "https://www.fh-salzburg.ac.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0855863,
+          47.7263881
+        ]
+      },
+      "id": "node/11409300028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11409300029",
+        "addr:city": "Puch bei Hallein",
+        "addr:housenumber": "19/2",
+        "addr:postcode": "5412",
+        "addr:street": "Urstein Süd",
+        "amenity": "college",
+        "name": "Fachhochschule Salzburg - Standort Wissenspark Urstein - Gebäude Hilfswerk",
+        "operator": "Fachhochschule Salzburg GmbH",
+        "website": "https://www.fh-salzburg.ac.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0857499,
+          47.7271946
+        ]
+      },
+      "id": "node/11409300029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11410563562",
+        "addr:city": "Puch bei Hallein",
+        "addr:housenumber": "19/3",
+        "addr:postcode": "5412",
+        "addr:street": "Urstein Süd",
+        "amenity": "college",
+        "name": "Fachhochschule Salzburg - Standort Wissenspark Urstein - Gebäude Hilfswerk",
+        "operator": "Fachhochschule Salzburg GmbH",
+        "operator:type": "private",
+        "website": "https://www.fh-salzburg.ac.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0855137,
+          47.7271727
+        ]
+      },
+      "id": "node/11410563562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11528196997",
+        "addr:city": "Salzburg",
+        "addr:housenumber": "1",
+        "addr:postcode": "5020",
+        "addr:street": "Jakob-Haringer-Straße",
+        "amenity": "university",
+        "description": "Excellence in Digital Sciences and Interdisciplinary Technologies Initiative at the Paris Lodron University of Salzburg",
+        "internet_access": "wlan",
+        "level": "2",
+        "name": "EXDIGIT",
+        "operator": "Paris Lodron University of Salzburg",
+        "operator:type": "university",
+        "website": "https://www.plus.ac.at/digital-and-analytical-sciences/fachbereiche-einrichtungen/einrichtungen/exdigit/?lang=en",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0406755,
+          47.8225077
+        ]
+      },
+      "id": "node/11528196997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11980459792",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "30",
+        "addr:postcode": "5020",
+        "addr:street": "Schillerstraße",
+        "amenity": "university",
+        "name": "Mobility Lab - Department of Geoinformatics",
+        "operator": "Paris Lodron University Salzburg",
+        "operator:type": "university",
+        "website": "https://mobilitylab.zgis.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0398358,
+          47.8232969
+        ]
+      },
+      "id": "node/11980459792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12211484971",
+        "addr:city": "Salzburg",
+        "addr:housenumber": "30",
+        "addr:postcode": "5020",
+        "addr:street": "Schillerstraße",
+        "amenity": "university",
+        "name": "UNIGIS Salzburg",
+        "operator": "Paris Lodron Universität Salzburg",
+        "operator:type": "university",
+        "website": "https://unigis.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0400544,
+          47.8230884
+        ]
+      },
+      "id": "node/12211484971"
+    }
+  ]
+}

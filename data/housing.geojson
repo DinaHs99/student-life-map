@@ -1,0 +1,742 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-06-19T17:43:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/10357662",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "30",
+        "addr:postcode": "5020",
+        "addr:street": "Hellbrunner Straße",
+        "building": "dormitory",
+        "building:levels": "4",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.060315,
+          47.7899081
+        ]
+      },
+      "id": "relation/10357662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38668384",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "5020",
+        "addr:street": "Egger-Lienz-Gasse",
+        "building": "dormitory",
+        "name": "Studentenheim Haus Humboldt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0729618,
+          47.7821352
+        ]
+      },
+      "id": "way/38668384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38668385",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "9",
+        "addr:postcode": "5020",
+        "addr:street": "Egger-Lienz-Gasse",
+        "building": "dormitory",
+        "building:levels": "5",
+        "name": "Studentenheim Egger-Lienz",
+        "operator": "Salzburger Studentenhilfsverein",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0720376,
+          47.7825366
+        ]
+      },
+      "id": "way/38668385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38937040",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "5020",
+        "addr:street": "Billrothstraße",
+        "at_bev:addr_date": "2017-10-01",
+        "building": "dormitory",
+        "building:levels": "4",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0720859,
+          47.7792787
+        ]
+      },
+      "id": "way/38937040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38937041",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "14",
+        "addr:postcode": "5020",
+        "addr:street": "Billrothstraße",
+        "at_bev:addr_date": "2017-10-01",
+        "building": "dormitory",
+        "building:levels": "4",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0716352,
+          47.7793935
+        ]
+      },
+      "id": "way/38937041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38937043",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "16",
+        "addr:postcode": "5020",
+        "addr:street": "Billrothstraße",
+        "at_bev:addr_date": "2017-10-01",
+        "building": "dormitory",
+        "building:levels": "4",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0713111,
+          47.7791496
+        ]
+      },
+      "id": "way/38937043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38937045",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "18",
+        "addr:postcode": "5020",
+        "addr:street": "Billrothstraße",
+        "at_bev:addr_date": "2017-10-01",
+        "building": "dormitory",
+        "building:levels": "4",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0715979,
+          47.7789273
+        ]
+      },
+      "id": "way/38937045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38937049",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "10",
+        "addr:postcode": "5020",
+        "addr:street": "Billrothstraße",
+        "at_bev:addr_date": "2017-10-01",
+        "building": "dormitory",
+        "building:levels": "3",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0721519,
+          47.7789759
+        ]
+      },
+      "id": "way/38937049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/39609900",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "28",
+        "addr:postcode": "5020",
+        "addr:street": "Robert-Preussler-Straße",
+        "building": "dormitory",
+        "building:levels": "3",
+        "name": "Europa Kolleg",
+        "operator": "Salzburger Studentenwerk",
+        "roof:levels": "0",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0726507,
+          47.7726474
+        ]
+      },
+      "id": "way/39609900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/39609902",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "11",
+        "addr:postcode": "5020",
+        "addr:street": "Robert-Preussler-Straße",
+        "building": "dormitory",
+        "building:levels": "3",
+        "name": "Franz von Sales Kolleg",
+        "operator": "Salzburger Studentenwerk",
+        "roof:shape": "flat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0734048,
+          47.7717368
+        ]
+      },
+      "id": "way/39609902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45025575",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "20",
+        "addr:postcode": "5020",
+        "addr:street": "Röcklbrunnstraße",
+        "building": "dormitory",
+        "name": "Studentenheim Leonardo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0625463,
+          47.8121271
+        ]
+      },
+      "id": "way/45025575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45025583",
+        "building": "dormitory",
+        "name": "Studentenheim Leonardo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0627033,
+          47.8123396
+        ]
+      },
+      "id": "way/45025583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45499313",
+        "building": "dormitory",
+        "building:levels": "6",
+        "name": "Studentenheim Merian",
+        "roof:shape": "flat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0469958,
+          47.8118161
+        ]
+      },
+      "id": "way/45499313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48857935",
+        "addr:housenumber:old": "3-5",
+        "addr:street:old": "Urstein Süd",
+        "building": "dormitory",
+        "int_name": "Student Home Campus Urstein",
+        "name": "Wohnheim Urstein",
+        "roof:shape": "flat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.087655,
+          47.7228765
+        ]
+      },
+      "id": "way/48857935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48954446",
+        "building": "dormitory",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0563481,
+          47.8066322
+        ]
+      },
+      "id": "way/48954446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/54773365",
+        "building": "dormitory",
+        "building:levels": "4",
+        "dormitory": "student",
+        "name": "Mozart Studentenheim",
+        "roof:levels": "1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0429295,
+          47.8082018
+        ]
+      },
+      "id": "way/54773365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68096378",
+        "building": "dormitory",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0488449,
+          47.8234168
+        ]
+      },
+      "id": "way/68096378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97260569",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "6",
+        "addr:postcode": "5020",
+        "addr:street": "Kralgrabenweg",
+        "amenity": "social_facility",
+        "at_bev:addr_date": "2018-10-01",
+        "building": "dormitory",
+        "building:colour": "#C0C0C0",
+        "building:levels": "1",
+        "contact:phone": "+43 662 450115",
+        "contact:website": "https://www.lebenshilfe-salzburg.at/unterstuetztes-wohnen.html",
+        "name": "Wohnhaus Kralgrabenweg",
+        "operator": "Lebenshilfe Salzburg",
+        "roof:colour": "#808080",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "social_facility": "assisted_living",
+        "social_facility:for": "disabled",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0399703,
+          47.8278042
+        ]
+      },
+      "id": "way/97260569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110444155",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "28",
+        "addr:postcode": "5020",
+        "addr:street": "Hellbrunner Straße",
+        "building": "dormitory",
+        "building:levels": "5",
+        "roof:levels": "2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0600072,
+          47.7905832
+        ]
+      },
+      "id": "way/110444155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110885920",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "10",
+        "addr:postcode": "5020",
+        "addr:street": "Konrad-Laib-Straße",
+        "building": "dormitory",
+        "building:levels": "5",
+        "name": "Haus Paracelsus",
+        "operator": "https://www.wist-salzburg.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0615599,
+          47.7874195
+        ]
+      },
+      "id": "way/110885920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110885980",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "10a",
+        "addr:postcode": "5020",
+        "addr:street": "Konrad-Laib-Straße",
+        "building": "dormitory",
+        "building:levels": "4",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0614163,
+          47.7876204
+        ]
+      },
+      "id": "way/110885980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110900005",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "5020",
+        "addr:street": "Friedensstraße",
+        "building": "dormitory",
+        "building:levels": "3",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0653217,
+          47.7854068
+        ]
+      },
+      "id": "way/110900005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/111448850",
+        "building": "dormitory",
+        "name": "Haus Stöckl",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0590679,
+          47.7910921
+        ]
+      },
+      "id": "way/111448850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/133096541",
+        "access": "yes",
+        "amenity": "parking",
+        "capacity:disabled": "1",
+        "fee": "yes",
+        "operator": "Salzburger Studentenwerk",
+        "park_ride": "no",
+        "parking": "surface",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0880989,
+          47.7228334
+        ]
+      },
+      "id": "way/133096541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/134124392",
+        "amenity": "social_facility",
+        "building": "dormitory",
+        "building:levels": "3",
+        "check_date": "2024-04-29",
+        "contact:email": "aigen@oejab.at",
+        "contact:phone": "+43 662 648258",
+        "contact:website": "https://www.oejab.at/seniorinnen/pflegeheime/aigen",
+        "name": "ÖJAB-SeniorInnenwohnanlage Aigen",
+        "roof:levels": "1",
+        "roof:shape": "hipped",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0695742,
+          47.796616
+        ]
+      },
+      "id": "way/134124392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138365085",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "14",
+        "addr:postcode": "5020",
+        "addr:street": "Petersbrunnstraße",
+        "building": "dormitory",
+        "name": "Dr.-Franz-Rehrl-Studentenheim",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.051625,
+          47.7943018
+        ]
+      },
+      "id": "way/138365085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146037651",
+        "building": "dormitory",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0480986,
+          47.8232948
+        ]
+      },
+      "id": "way/146037651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160652873",
+        "access": "students",
+        "email": "office@sstw.at",
+        "fax": "+43 662 93030 77",
+        "name": "Internationales Kolleg Salzburg",
+        "operator": "Salzburger Studentenwerk",
+        "phone": "+43 662 93030 0",
+        "ref:UID": "ATU59631269",
+        "tourism": "hostel",
+        "website": "https://studentenheim.at/wohnheime/int-kolleg-salzburg/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0717304,
+          47.779178
+        ]
+      },
+      "id": "way/160652873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/570974265",
+        "amenity": "school",
+        "description": "9-Monatsheim (1.10. - 30.06.)",
+        "name": "Studentenwohnheim Glockengasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0493913,
+          47.8041128
+        ]
+      },
+      "id": "node/570974265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/737954510",
+        "building": "dormitory",
+        "building:levels": "6",
+        "name": "Studentenheim Merian",
+        "roof:shape": "flat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0470419,
+          47.8120007
+        ]
+      },
+      "id": "way/737954510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/914364150",
+        "building": "dormitory",
+        "description": "SchülerInnen und StudentInnenheim",
+        "dormitory": "student",
+        "name": "Salzburger Lehrerhaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0336404,
+          47.7924466
+        ]
+      },
+      "id": "node/914364150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8865535252",
+        "addr:city": "Salzburg",
+        "addr:housenumber": "24",
+        "addr:postcode": "5020",
+        "addr:street": "Gaswerkgasse",
+        "amenity": "student_accommodation",
+        "email": "info@studentenwohnheim-salzburg.at",
+        "image": "https://www.studentenwohnheim-salzburg.at/wp-content/uploads/2021/04/Zimmer-Rendered-02.jpg",
+        "internet_access": "wlan",
+        "name": "@HOME Studentenwohnheim Salzburg",
+        "website": "https://www.studentenwohnheim-salzburg.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0332018,
+          47.8110698
+        ]
+      },
+      "id": "node/8865535252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945020015",
+        "amenity": "dormitory",
+        "dormitory": "student",
+        "name": "ÖJAB-Haus",
+        "opening_hours": "Sep-Jun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0351887,
+          47.8089509
+        ]
+      },
+      "id": "node/9945020015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11724460236",
+        "access": "students",
+        "amenity": "dormitory",
+        "name": "Thomas Michels Heim",
+        "operator": "Katholisches Hochschulwerk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0465388,
+          47.8067558
+        ]
+      },
+      "id": "node/11724460236"
+    }
+  ]
+}

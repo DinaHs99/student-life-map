@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Life in Salzburg</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <header id="site-header">
+    <h1>Student Life in Salzburg</h1>
+    <p>Discover cozy study spots, places to live, chill parks, and more — tailored for students in Salzburg.</p>
+    </header>
+    <!-- Bottom category buttons -->
+    <div id="category-footer">
+      <button onclick="toggleLayer('study')">📚 Study</button>
+      <button onclick="toggleEat()">🍴 Eat & Drink</button>
+      <button onclick="toggleLayer('housing')">🏠 Housing</button>
+      <button onclick="toggleRelax()">🌳 Relax</button>
+      <button onclick="toggleHelp()">🛠️ Help & Services</button>
+    </div>
+
+    <div id="eat-subfilter">
+      <button onclick="filterEat('restaurant')">Restaurant</button>
+      <button onclick="filterEat('cafe')">Café</button>
+    </div>
+
+    <div id="help-subfilter" class="subfilter">
+      <button onclick="filterHelp('hospital')">Hospital</button>
+      <button onclick="filterHelp('pharmacy')">Pharmacy</button>
+    </div>
+ 
+    <div id="relax-subfilter" class="subfilter">
+      <button onclick="filterRelax('park')">Park</button>
+      <button onclick="filterRelax('dog_park')">Dog Park</button>
+      <button onclick="filterRelax('football')">Football Pitch</button>
+      <button onclick="filterRelax('tennis')">Tennis</button>
+      <button onclick="filterRelax('swimming')">Swimming Pool</button>
+    </div>
+
+
+    <div id="map"></div>
+
+
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="js/main.js"></script>
+  
+</body>
+</html>
