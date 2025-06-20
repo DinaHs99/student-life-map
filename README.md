@@ -7,7 +7,7 @@ This is an interactive web map created using the Leaflet.js library. It is desig
 **"Salzburg Student Essentials Map"**
 
 ## 📍 Live Map
-[View the Live Map Here](https://fh50841.github.io/salzburg-map/)  
+[View the Live Map Here](https://fh50841.github.io/student-life-map/)  
 
 
 ---
