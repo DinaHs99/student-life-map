@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2025-06-19T17:09:45Z",
+  "timestamp": "2025-06-26T20:20:13Z",
   "features": [
     {
       "type": "Feature",
@@ -113,6 +113,23 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/30513071",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.067963,
+          47.8101688
+        ]
+      },
+      "id": "way/30513071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/30514228",
         "leisure": "park",
         "name": "Stölzlpark",
@@ -164,20 +181,113 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/38899504",
+        "@id": "way/38318249",
         "leisure": "pitch",
-        "sport": "tennis",
-        "surface": "rubber",
+        "name": "ESV Lehen",
+        "sport": "ice_stock",
+        "sport:de": "Eisstockschiessen",
+        "surface": "asphalt",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0431094,
-          47.7750082
+          13.0349994,
+          47.8141815
         ]
       },
-      "id": "way/38899504"
+      "id": "way/38318249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38899473",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0142181,
+          47.7916196
+        ]
+      },
+      "id": "way/38899473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38899481",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0138828,
+          47.7907149
+        ]
+      },
+      "id": "way/38899481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46976403",
+        "leisure": "pitch",
+        "name": "ASV Taxham",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0112097,
+          47.8146306
+        ]
+      },
+      "id": "way/46976403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46976406",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0117595,
+          47.8167941
+        ]
+      },
+      "id": "way/46976406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/47011476",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0139004,
+          47.8149839
+        ]
+      },
+      "id": "way/47011476"
     },
     {
       "type": "Feature",
@@ -217,19 +327,56 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/50769435",
+        "@id": "way/49178399",
         "leisure": "pitch",
-        "sport": "tennis",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0540413,
-          47.8184282
+          13.0465589,
+          47.7731985
         ]
       },
-      "id": "way/50769435"
+      "id": "way/49178399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/49182471",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0342404,
+          47.7704782
+        ]
+      },
+      "id": "way/49182471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/49182472",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "gravel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.033892,
+          47.7698836
+        ]
+      },
+      "id": "way/49182472"
     },
     {
       "type": "Feature",
@@ -252,19 +399,20 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/50994664",
+        "@id": "way/50994660",
         "leisure": "pitch",
-        "sport": "tennis",
+        "name": "Sportanlage Postsportverein",
+        "sport": "soccer",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0555621,
-          47.8205373
+          13.0546049,
+          47.8205322
         ]
       },
-      "id": "way/50994664"
+      "id": "way/50994660"
     },
     {
       "type": "Feature",
@@ -304,113 +452,139 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/67461418",
+        "@id": "way/65049073",
+        "access": "members",
         "leisure": "pitch",
-        "sport": "tennis",
-        "surface": "clay",
+        "source": "Yahoo-maps",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0612352,
-          47.796212
+          13.065762,
+          47.7771793
         ]
       },
-      "id": "way/67461418"
+      "id": "way/65049073"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/67461496",
+        "@id": "way/65371440",
+        "access": "members",
         "leisure": "pitch",
-        "sport": "tennis",
-        "surface": "clay",
+        "source": "Yahoo-maps",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.061602,
-          47.7960677
+          13.0645894,
+          47.7770199
         ]
       },
-      "id": "way/67461496"
+      "id": "way/65371440"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/67461529",
-        "leisure": "pitch",
-        "sport": "tennis",
-        "surface": "clay",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0614184,
-          47.7961399
-        ]
-      },
-      "id": "way/67461529"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/74501965",
-        "access": "private",
-        "barrier": "fence",
-        "leisure": "pitch",
-        "source": "Yahoo",
-        "sport": "tennis",
-        "surface": "sand",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0395166,
-          47.7637933
-        ]
-      },
-      "id": "way/74501965"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/77113446",
-        "leisure": "pitch",
-        "sport": "tennis",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0138647,
-          47.8141373
-        ]
-      },
-      "id": "way/77113446"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/77835903",
+        "@id": "way/66138222",
         "leisure": "pitch",
         "lit": "no",
-        "sport": "tennis",
-        "surface": "clay",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0219583,
-          47.8041481
+          13.061787,
+          47.7854009
         ]
       },
-      "id": "way/77835903"
+      "id": "way/66138222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/66159768",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0235884,
+          47.8308548
+        ]
+      },
+      "id": "way/66159768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/77835902",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Bundesbahn Sportverein",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0214837,
+          47.8039885
+        ]
+      },
+      "id": "way/77835902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/88831110",
+        "leisure": "pitch",
+        "source": "Bing",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0574302,
+          47.790782
+        ]
+      },
+      "id": "way/88831110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/88831775",
+        "leisure": "pitch",
+        "source": "Bing",
+        "sport": "soccer",
+        "surface": "tartan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0553287,
+          47.7909194
+        ]
+      },
+      "id": "way/88831775"
     },
     {
       "type": "Feature",
@@ -456,21 +630,20 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/110444149",
-        "access": "private",
+        "@id": "way/110444156",
         "leisure": "pitch",
-        "operator": "ORF",
-        "sport": "tennis",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0530085,
-          47.7878273
+          13.0563011,
+          47.7906409
         ]
       },
-      "id": "way/110444149"
+      "id": "way/110444156"
     },
     {
       "type": "Feature",
@@ -493,352 +666,582 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/112837778",
+        "@id": "way/111323431",
         "leisure": "pitch",
         "lit": "no",
-        "sport": "basketball",
+        "sport": "soccer",
         "surface": "tartan",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0613971,
-          47.785812
+          13.0615045,
+          47.7857078
         ]
       },
-      "id": "way/112837778"
+      "id": "way/111323431"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/129242530",
+        "@id": "way/120403336",
         "leisure": "pitch",
-        "sport": "tennis",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0683348,
-          47.8254823
+          13.066115,
+          47.7801907
         ]
       },
-      "id": "way/129242530"
+      "id": "way/120403336"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/131449719",
+        "@id": "way/122276018",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "52",
+        "addr:postcode": "5020",
+        "addr:street": "Rechte Saalachzeile",
         "leisure": "pitch",
-        "sport": "tennis",
+        "name": "Landeshauptschießstand",
+        "sport": "shooting",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0608487,
-          47.7959452
+          13.0056954,
+          47.8416859
         ]
       },
-      "id": "way/131449719"
+      "id": "way/122276018"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/131449740",
+        "@id": "way/122276023",
+        "access": "members",
         "leisure": "pitch",
-        "sport": "tennis",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "artificial_turf",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0610414,
-          47.7958708
+          13.0050244,
+          47.842787
         ]
       },
-      "id": "way/131449740"
+      "id": "way/122276023"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/131449742",
+        "@id": "way/122276024",
+        "access": "members",
         "leisure": "pitch",
-        "sport": "tennis",
-        "surface": "clay",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0610275,
-          47.7962823
+          13.0066597,
+          47.8424884
         ]
       },
-      "id": "way/131449742"
+      "id": "way/122276024"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/131449756",
+        "@id": "way/132575748",
         "leisure": "pitch",
-        "sport": "tennis",
-        "surface": "clay",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0617857,
-          47.7959954
+          13.0614659,
+          47.7969802
         ]
       },
-      "id": "way/131449756"
+      "id": "way/132575748"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/131449759",
+        "@id": "way/134040777",
         "leisure": "pitch",
-        "sport": "tennis",
-        "surface": "clay",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0608079,
-          47.7963371
+          13.0722876,
+          47.8067355
         ]
       },
-      "id": "way/131449759"
+      "id": "way/134040777"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/133776808",
+        "@id": "way/134126306",
         "leisure": "pitch",
-        "sport": "basketball",
+        "sport": "soccer",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0333053,
-          47.7951403
+          13.0651843,
+          47.8021923
         ]
       },
-      "id": "way/133776808"
+      "id": "way/134126306"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/134037839",
+        "@id": "way/134198219",
         "leisure": "pitch",
-        "sport": "tennis",
-        "surface": "clay",
+        "name": "Asphaltstock",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0676447,
-          47.8108704
+          13.0743654,
+          47.8134849
         ]
       },
-      "id": "way/134037839"
+      "id": "way/134198219"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/134043710",
+        "@id": "way/136334494",
         "leisure": "pitch",
-        "sport": "tennis",
+        "sport": "soccer",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0721947,
-          47.8064645
+          13.0796801,
+          47.7849548
         ]
       },
-      "id": "way/134043710"
+      "id": "way/136334494"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/134203852",
+        "@id": "way/136890812",
         "leisure": "pitch",
-        "sport": "tennis",
+        "sport": "soccer",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0789248,
-          47.8184304
+          13.0818543,
+          47.7988157
         ]
       },
-      "id": "way/134203852"
+      "id": "way/136890812"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/134834860",
+        "@id": "way/136900481",
         "leisure": "pitch",
-        "sport": "basketball",
+        "sport": "soccer",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0645189,
-          47.8017713
+          13.0851564,
+          47.77407
         ]
       },
-      "id": "way/134834860"
+      "id": "way/136900481"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/135927357",
+        "@id": "way/138773362",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0210075,
+          47.7825577
+        ]
+      },
+      "id": "way/138773362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138773365",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0214475,
+          47.7821187
+        ]
+      },
+      "id": "way/138773365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/145580129",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0238402,
+          47.8298676
+        ]
+      },
+      "id": "way/145580129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/145580132",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.025234,
+          47.8303942
+        ]
+      },
+      "id": "way/145580132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/145580133",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0261276,
+          47.831556
+        ]
+      },
+      "id": "way/145580133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/145580282",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0262819,
+          47.8295675
+        ]
+      },
+      "id": "way/145580282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/145581547",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Ducks Pond",
+        "source": "https://www.salzburg.football/",
+        "sport": "american_football;ultimate_frisbee;cricket;flag_football",
+        "surface": "artificial_turf",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0273904,
+          47.8289162
+        ]
+      },
+      "id": "way/145581547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/145581548",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0268097,
+          47.8287091
+        ]
+      },
+      "id": "way/145581548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146048447",
         "leisure": "pitch",
         "lit": "no",
-        "sport": "tennis",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0497032,
+          47.8267462
+        ]
+      },
+      "id": "way/146048447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154842683",
+        "leisure": "pitch",
+        "name": "Turn- und Sportverein Itzling",
+        "sport": "fistball",
+        "website": "http://www.tsv-itzling.at/de",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0388779,
+          47.8194371
+        ]
+      },
+      "id": "way/154842683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154842711",
+        "leisure": "pitch",
+        "name": "Kolpinghaus Salzburg",
+        "sport": "beachvolleyball",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0357969,
+          47.8217928
+        ]
+      },
+      "id": "way/154842711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154842712",
+        "leisure": "pitch",
+        "name": "Kolpinghaus Salzburg",
+        "sport": "multi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0356219,
+          47.8216926
+        ]
+      },
+      "id": "way/154842712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154842731",
+        "access": "members",
+        "leisure": "pitch",
+        "name": "ASV Salzburg",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0374982,
+          47.8209241
+        ]
+      },
+      "id": "way/154842731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154842733",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0373732,
+          47.8203837
+        ]
+      },
+      "id": "way/154842733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154987281",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "soccer",
         "surface": "tartan",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.065653,
-          47.7970054
+          13.0246033,
+          47.8066324
         ]
       },
-      "id": "way/135927357"
+      "id": "way/154987281"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/137729234",
+        "@id": "way/154987285",
         "leisure": "pitch",
-        "sport": "tennis",
+        "sport": "soccer",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0754384,
-          47.7553685
+          13.0252908,
+          47.8064312
         ]
       },
-      "id": "way/137729234"
+      "id": "way/154987285"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/137729235",
+        "@id": "way/154987292",
         "leisure": "pitch",
-        "sport": "tennis",
+        "sport": "soccer",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0752374,
-          47.7558476
+          13.0347909,
+          47.8115267
         ]
       },
-      "id": "way/137729235"
+      "id": "way/154987292"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/138105652",
+        "@id": "way/155016879",
         "leisure": "pitch",
-        "sport": "tennis",
+        "name": "Schwarzpark-Bowl",
+        "sport": "skateboard",
+        "surface": "concrete",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0142796,
-          47.7928899
+          13.0547353,
+          47.8227781
         ]
       },
-      "id": "way/138105652"
+      "id": "way/155016879"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/147462635",
+        "@id": "way/155111909",
         "leisure": "pitch",
-        "sport": "tennis",
+        "sport": "soccer",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0253901,
-          47.8007667
+          13.0334378,
+          47.7947279
         ]
       },
-      "id": "way/147462635"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/154842736",
-        "leisure": "pitch",
-        "sport": "tennis",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0386349,
-          47.8205813
-        ]
-      },
-      "id": "way/154842736"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/154916011",
-        "leisure": "pitch",
-        "sport": "tennis",
-        "surface": "asphalt",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0116824,
-          47.8161456
-        ]
-      },
-      "id": "way/154916011"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/154916023",
-        "leisure": "pitch",
-        "sport": "basketball",
-        "surface": "asphalt",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0113984,
-          47.8159603
-        ]
-      },
-      "id": "way/154916023"
+      "id": "way/155111909"
     },
     {
       "type": "Feature",
@@ -897,23 +1300,60 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/156165213",
-        "access": "yes",
-        "hoops": "1",
+        "@id": "way/158167212",
         "leisure": "pitch",
         "lit": "no",
-        "sport": "basketball",
-        "surface": "asphalt",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.043226,
-          47.7887943
+          13.0365514,
+          47.8005947
         ]
       },
-      "id": "way/156165213"
+      "id": "way/158167212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159522303",
+        "access": "private",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0043309,
+          47.8112496
+        ]
+      },
+      "id": "way/159522303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159522304",
+        "access": "private",
+        "leisure": "pitch",
+        "name": "Sportplatz der VS und MS Taxham",
+        "sport": "soccer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0048135,
+          47.8110383
+        ]
+      },
+      "id": "way/159522304"
     },
     {
       "type": "Feature",
@@ -952,6 +1392,65 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/172888240",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Stachelschützen - Schießstand",
+        "operator": "Stachelschützengilde Salzburg",
+        "shooting": "crossbow",
+        "sport": "shooting",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0343222,
+          47.8046119
+        ]
+      },
+      "id": "way/172888240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179425802",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0332731,
+          47.7888952
+        ]
+      },
+      "id": "way/179425802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208542494",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0311769,
+          47.8153935
+        ]
+      },
+      "id": "way/208542494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/219054245",
         "leisure": "park",
         "name": "Heckentheater",
@@ -969,19 +1468,20 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/226382642",
+        "@id": "way/234170789",
         "leisure": "pitch",
-        "sport": "basketball",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0809002,
-          47.8301584
+          13.0469768,
+          47.8209051
         ]
       },
-      "id": "way/226382642"
+      "id": "way/234170789"
     },
     {
       "type": "Feature",
@@ -1005,25 +1505,6 @@
         ]
       },
       "id": "way/252356702"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/262501453",
-        "hoops": "2",
-        "leisure": "pitch",
-        "sport": "basketball",
-        "surface": "asphalt",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0077788,
-          47.8217925
-        ]
-      },
-      "id": "way/262501453"
     },
     {
       "type": "Feature",
@@ -1117,6 +1598,128 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/278203037",
+        "covered": "yes",
+        "fee": "no",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "The Cage",
+        "note": "11:00 Uhr bis Dämmerung",
+        "sport": "skateboard;microscooter;inlineskating",
+        "surface": "concrete",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.070344,
+          47.770674
+        ]
+      },
+      "id": "way/278203037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295232674",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0052759,
+          47.8433703
+        ]
+      },
+      "id": "way/295232674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/296756520",
+        "access": "members",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0074342,
+          47.8436838
+        ]
+      },
+      "id": "way/296756520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/304354488",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0055437,
+          47.8448386
+        ]
+      },
+      "id": "way/304354488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/304354489",
+        "access": "members",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0055178,
+          47.8439482
+        ]
+      },
+      "id": "way/304354489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377290457",
+        "access": "yes",
+        "leisure": "pitch",
+        "name": "Beachvolleyball-Platz am TechnoZ",
+        "sport": "beachvolleyball",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0402689,
+          47.8235157
+        ]
+      },
+      "id": "way/377290457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/381435563",
         "description": "Kleines Basketballfeld auf Asphalt mit Metallkörben; wegen der Größe eher für streetball geeignet",
         "leisure": "pitch",
@@ -1138,93 +1741,96 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/427959828",
+        "@id": "way/405483289",
         "leisure": "pitch",
-        "sport": "tennis",
-        "surface": "sand",
+        "lit": "yes",
+        "sport": "soccer",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0990684,
-          47.8101307
+          12.9993803,
+          47.8123231
         ]
       },
-      "id": "way/427959828"
+      "id": "way/405483289"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/428860739",
-        "access": "members",
+        "@id": "way/405483292",
         "leisure": "pitch",
         "lit": "no",
-        "sport": "tennis",
-        "surface": "clay",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0273008,
-          47.8301745
+          12.9986479,
+          47.8114865
         ]
       },
-      "id": "way/428860739"
+      "id": "way/405483292"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/445971891",
-        "leisure": "pitch",
-        "sport": "basketball"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0519717,
-          47.8104482
-        ]
-      },
-      "id": "node/445971891"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/489505629",
+        "@id": "way/488252003",
         "leisure": "pitch",
         "lit": "no",
-        "sport": "basketball",
-        "surface": "tartan",
+        "name": "Volleyballcourt",
+        "sport": "volleyball",
+        "surface": "artificial_turf",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0566963,
-          47.7923756
+          13.0729717,
+          47.7723931
         ]
       },
-      "id": "way/489505629"
+      "id": "way/488252003"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/547540825",
+        "@id": "way/504526223",
         "leisure": "pitch",
-        "sport": "basketball",
-        "surface": "tartan",
+        "sport": "soccer",
+        "surface": "ground",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0366402,
-          47.8208245
+          13.0582883,
+          47.7909117
         ]
       },
-      "id": "way/547540825"
+      "id": "way/504526223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/522921877",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0307354,
+          47.8101888
+        ]
+      },
+      "id": "way/522921877"
     },
     {
       "type": "Feature",
@@ -1249,23 +1855,21 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/585115616",
-        "access": "yes",
-        "hoops": "0",
+        "@id": "way/594098683",
         "leisure": "pitch",
         "lit": "no",
-        "sport": "basketball",
-        "surface": "asphalt",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0254156,
-          47.8151409
+          13.0337151,
+          47.7891869
         ]
       },
-      "id": "way/585115616"
+      "id": "way/594098683"
     },
     {
       "type": "Feature",
@@ -1287,6 +1891,43 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/643944621",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0558587,
+          47.7923309
+        ]
+      },
+      "id": "way/643944621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/663380942",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0342001,
+          47.8137955
+        ]
+      },
+      "id": "way/663380942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/745882479",
         "animal": "school",
         "landuse": "meadow",
@@ -1303,6 +1944,23 @@
         ]
       },
       "id": "way/745882479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/747099075",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0148389,
+          47.8148094
+        ]
+      },
+      "id": "way/747099075"
     },
     {
       "type": "Feature",
@@ -1328,70 +1986,38 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/809910806",
+        "@id": "way/828713203",
         "leisure": "pitch",
-        "sport": "tennis",
+        "sport": "soccer",
+        "surface": "asphalt",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0756626,
-          47.7554125
+          13.0058201,
+          47.8106789
         ]
       },
-      "id": "way/809910806"
+      "id": "way/828713203"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/809910807",
+        "@id": "way/855308278",
         "leisure": "pitch",
-        "sport": "tennis",
+        "sport": "soccer",
+        "surface": "tartan",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0754598,
-          47.7558907
+          13.0346941,
+          47.8104153
         ]
       },
-      "id": "way/809910807"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/829451169",
-        "leisure": "pitch",
-        "sport": "basketball",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.047031,
-          47.8214762
-        ]
-      },
-      "id": "way/829451169"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/881562353",
-        "leisure": "pitch",
-        "sport": "basketball",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0495089,
-          47.8268772
-        ]
-      },
-      "id": "way/881562353"
+      "id": "way/855308278"
     },
     {
       "type": "Feature",
@@ -1413,21 +2039,20 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/893936240",
+        "@id": "way/891718495",
         "leisure": "pitch",
-        "lit": "no",
-        "sport": "basketball",
+        "sport": "soccer",
         "surface": "asphalt",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0169639,
-          47.8396716
+          13.0398962,
+          47.824985
         ]
       },
-      "id": "way/893936240"
+      "id": "way/891718495"
     },
     {
       "type": "Feature",
@@ -1537,82 +2162,59 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1041086639",
-        "access": "permit",
+        "@id": "way/1022820312",
         "leisure": "pitch",
-        "lit": "no",
-        "sport": "tennis",
-        "surface": "tartan",
+        "name": "Kanupolo Spielfeld",
+        "sport": "canoe_polo",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0124874,
-          47.8325587
+          13.0158806,
+          47.8376478
         ]
       },
-      "id": "way/1041086639"
+      "id": "way/1022820312"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1041086640",
-        "access": "permit",
+        "@id": "way/1071929578",
+        "access": "yes",
         "leisure": "pitch",
         "lit": "no",
-        "sport": "tennis",
-        "surface": "tartan",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0125837,
-          47.8324171
+          13.0230226,
+          47.811099
         ]
       },
-      "id": "way/1041086640"
+      "id": "way/1071929578"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1041086641",
-        "access": "permit",
+        "@id": "way/1071931274",
         "leisure": "pitch",
         "lit": "no",
-        "sport": "tennis",
-        "surface": "tartan",
+        "sport": "soccer",
+        "surface": "artificial_turf",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0134381,
-          47.8328531
+          13.0258771,
+          47.8144499
         ]
       },
-      "id": "way/1041086641"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1041086642",
-        "access": "permit",
-        "leisure": "pitch",
-        "lit": "no",
-        "sport": "tennis",
-        "surface": "tartan",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0130229,
-          47.8327239
-        ]
-      },
-      "id": "way/1041086642"
+      "id": "way/1071931274"
     },
     {
       "type": "Feature",
@@ -1636,63 +2238,41 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1182216552",
+        "@id": "way/1182216435",
         "access": "yes",
-        "hoops": "1",
         "leisure": "pitch",
         "lit": "no",
-        "sport": "basketball",
-        "surface": "asphalt",
+        "name": "Volleyballplatz Donnenbergpark",
+        "sport": "volleyball",
+        "surface": "sand",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.043362,
-          47.7889688
+          13.0433876,
+          47.788191
         ]
       },
-      "id": "way/1182216552"
+      "id": "way/1182216435"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1186072084",
-        "hoops": "1",
+        "@id": "way/1239118652",
         "leisure": "pitch",
-        "lit": "no",
-        "sport": "basketball",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0735424,
-          47.8129955
+          13.0554041,
+          47.793196
         ]
       },
-      "id": "way/1186072084"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1224500762",
-        "access": "yes",
-        "hoops": "1",
-        "leisure": "pitch",
-        "lit": "no",
-        "sport": "basketball",
-        "surface": "asphalt",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0016848,
-          47.8359
-        ]
-      },
-      "id": "way/1224500762"
+      "id": "way/1239118652"
     },
     {
       "type": "Feature",
@@ -1717,100 +2297,173 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1356192194",
+        "@id": "way/1264428112",
         "leisure": "pitch",
-        "sport": "basketball",
-        "surface": "asphalt",
+        "lit": "yes",
+        "sport": "soccer",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0610774,
-          47.7969059
+          12.9998985,
+          47.8129654
         ]
       },
-      "id": "way/1356192194"
+      "id": "way/1264428112"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1372511623",
-        "access": "members",
+        "@id": "way/1264428114",
         "leisure": "pitch",
-        "lit": "no",
-        "sport": "tennis",
-        "surface": "clay",
+        "lit": "yes",
+        "sport": "soccer",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0271162,
-          47.8301043
+          13.0000571,
+          47.8118612
         ]
       },
-      "id": "way/1372511623"
+      "id": "way/1264428114"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1372511624",
-        "access": "members",
+        "@id": "way/1264428118",
         "leisure": "pitch",
-        "lit": "no",
-        "sport": "tennis",
-        "surface": "clay",
+        "lit": "yes",
+        "sport": "soccer",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0274836,
-          47.8302342
+          13.0006209,
+          47.8125441
         ]
       },
-      "id": "way/1372511624"
+      "id": "way/1264428118"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1372511625",
-        "access": "members",
+        "@id": "way/1272730121",
+        "disc_golf": "out_of_bounds",
         "leisure": "pitch",
         "lit": "no",
-        "sport": "tennis",
-        "surface": "clay",
+        "sport": "soccer",
+        "surface": "grass",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0273149,
-          47.8297149
+          13.0206283,
+          47.8317962
         ]
       },
-      "id": "way/1372511625"
+      "id": "way/1272730121"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1372511626",
-        "access": "members",
+        "@id": "way/1280771994",
         "leisure": "pitch",
-        "lit": "no",
-        "sport": "tennis",
-        "surface": "clay",
+        "sport": "soccer",
+        "surface": "concrete",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0275115,
-          47.8297828
+          13.0640619,
+          47.8016202
         ]
       },
-      "id": "way/1372511626"
+      "id": "way/1280771994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1292225105",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0625602,
+          47.7763139
+        ]
+      },
+      "id": "way/1292225105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1334198064",
+        "access": "yes",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0436398,
+          47.7884324
+        ]
+      },
+      "id": "way/1334198064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1351202193",
+        "access": "yes",
+        "addr:city": "Salzburg",
+        "addr:housenumber": "7",
+        "addr:postcode": "5020",
+        "addr:street": "Otto-Holzbauer-Straße",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Fahrradpark",
+        "operator": "Gemiende",
+        "sport": "bmx",
+        "surface": "schmutz,_steine",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.066687,
+          47.7759233
+        ]
+      },
+      "id": "way/1351202193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1356192195",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0611358,
+          47.7970514
+        ]
+      },
+      "id": "way/1356192195"
     },
     {
       "type": "Feature",
@@ -1845,6 +2498,65 @@
         ]
       },
       "id": "node/5665987636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10911060966",
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Pump Track",
+        "sport": "bmx;mountain_bike;bicycle",
+        "surface": "compacted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0670184,
+          47.7755121
+        ]
+      },
+      "id": "node/10911060966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10994322770",
+        "access": "yes",
+        "leisure": "pitch",
+        "name": "Weitsprung",
+        "opening_hours": "Mo-Fr 09:00-18:30; 09:00-17:00; PH closed",
+        "sport": "athletics",
+        "surface": "sand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0241926,
+          47.8307148
+        ]
+      },
+      "id": "node/10994322770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10994322772",
+        "leisure": "pitch",
+        "name": "Kugelstoßen",
+        "opening_hours": "Mo-Fr 08:30-20:00, Tu-Su 08:00-15:00; Sa 08:00-12:00",
+        "sport": "athletics",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0244399,
+          47.8310123
+        ]
+      },
+      "id": "node/10994322772"
     },
     {
       "type": "Feature",
@@ -1890,6 +2602,23 @@
         ]
       },
       "id": "node/12458790109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12765475401",
+        "leisure": "pitch",
+        "name": "Tischfußball",
+        "sport": "table_soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0473986,
+          47.7947876
+        ]
+      },
+      "id": "node/12765475401"
     }
   ]
 }
